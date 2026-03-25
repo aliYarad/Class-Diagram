@@ -216,7 +216,7 @@ interface MetodeMasak {
 ```
 Interface ini nantinya diimplementasikan oleh class `Menggoreng` dan `Merebus`.
 
-#### Keunikan Program
+### 6. Keunikan Program
 Program ini memiliki keunikan yaitu:
 - Relasi antara `Resep` dan `MetodeMasak` memungkinkan metode memasak diganti secara fleksibel tanpa mengubah struktur utama program
 - Kategori resep yang dibedakan berdasarkan domainnya yaitu nusantara dan mancanegara
