@@ -58,7 +58,7 @@ abstract class Resep {
     public void infoResep() {
         System.out.println("Nama : " + makanan);
         System.out.println("Bahan : " + bahan);
-        System.out.println("Instruksi : " + step);
+        System.out.println("Step : " + step);
         System.out.println("Waktu : " + waktu + " menit");
     }
 }
@@ -140,7 +140,7 @@ public class BukuResep {
 
 ## Output
 Output saat program dijalankan:
-<img width="801" height="309" alt="Screenshot 2026-03-25 134706" src="https://github.com/user-attachments/assets/995a3f00-99ed-4dfe-87f2-5db5769e6b13" />
+<img width="752" height="303" alt="Screenshot 2026-03-25 142137" src="https://github.com/user-attachments/assets/b272fc39-1eb7-4e52-b2bb-842eab283963" />
 
 ## Penjelasan Kode
 ### 1.
